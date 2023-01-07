@@ -9,3 +9,7 @@ This software is a test file for showing Hello World.
 VSCode
 
 HTML
+
+# Time Spent
+
+This took about 4 minutes
